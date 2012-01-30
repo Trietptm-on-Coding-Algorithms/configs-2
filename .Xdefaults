@@ -1,0 +1,9 @@
+xterm*background: black 
+xterm*foreground: LightGoldenrod1
+
+urxvt*background: black
+urxvt*foreground: LightGoldenrod1
+urxvt*scrollBar: false
+urxvt.perl-ext-common: vtwheel
+urxvt*depth: 32
+urxvt*background: rgba:0000/0000/0000/6600
